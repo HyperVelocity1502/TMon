@@ -17,9 +17,20 @@ Currently only way for app to work is having a Mac computer with XCode installed
 - CocoaPods installed for managing dependencies (you can install it using `sudo gem install cocoapods`)
 
 ### Getting Started
-
-
+1. Copy Repository 
+```bash
+https://github.com/InnoTechTmon/TMon.git
+```
+2. Click "Clone GIT Repository..."
    
+3. In "Search or enter repository URL", enter copied Repo
+
+4. Select where to save TMon Folder and press "Clone"
+   
+5. Build and Run:
+Press Cmd + B to build the project.
+Press Cmd + R to run the project.
+
 
 ## Usage
 
