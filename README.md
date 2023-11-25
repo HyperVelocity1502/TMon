@@ -21,11 +21,11 @@ Currently only way for app to work is having a Mac computer with XCode installed
 ```bash
 https://github.com/InnoTechTmon/TMon.git
 ```
-2. Click "Clone GIT Repository..."
+2. Click "Clone GIT Repository..." in XCode. 
    
-3. In "Search or enter repository URL", enter copied Repo
+3. In "Search or enter repository URL", enter copied Repo.
 
-4. Select where to save TMon Folder and press "Clone"
+4. Select where to save TMon Folder and press "Clone".
    
 5. Build and Run:
 Press Cmd + B to build the project.
