@@ -44,5 +44,26 @@ Currently only way for app to work is having a Mac computer with XCode installed
 
 5. Build and run the application in Xcode.
 
+## Usage
+
+1. **Profile Creation/Sign-in:**
+    - Launch the app and click on "Profile" to create/signin/view profile.
+    - Sign in with your credentials.
+    - Sign in/sign out/delete account through respective buttons. 
+
+2. **Appointment Creation:**
+    - Navigate to the "Calendar" section.
+    - Click on the "DAY "NUM" on calendar to pick a day.
+    - Click on Time for which time you would like. 
+    - Enter any extra details the done.
+    - Click "Done" on confimration page to proceed back to calendar. 
+
+3. **List View of Appointments:**
+    - Go to the "List" section to view a list of your appointments.
+    - Appointments are displayed with date and time.
+  
+### Reporting Issues
+
+When reporting issues, please provide a detailed description and include steps to reproduce the problem.
 
 
