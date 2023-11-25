@@ -18,31 +18,8 @@ Currently only way for app to work is having a Mac computer with XCode installed
 
 ### Getting Started
 
-1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/yourusername/TMon.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd TMon
-    ```
-
-3. Install dependencies using CocoaPods:
-
-    ```bash
-    pod install
-    ```
-
-4. Open the project in Xcode:
-
-    ```bash
-    open TMon.xcworkspace
-    ```
-
-5. Build and run the application in Xcode.
+   
 
 ## Usage
 
