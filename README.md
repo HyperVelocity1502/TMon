@@ -4,11 +4,11 @@ InnoTech: TMon, is an appointment Swift scheduling app that supports sign in, sc
 Currently only way for app to work is having a Mac computer with XCode installed, having this availiable the app can be produced to different IOS devices. TMon can also be used as a desktop application on the Mac. 
 
 ## Features
-- ** Profile Creation/Sign-in with Firebase:** Users can create profiles and sign in securely using Firebase Authentication.
+- **Profile Creation/Sign-in with Firebase:** Users can create profiles and sign in securely using Firebase Authentication.
 
-- ** Appointment Creation through Supabase:** Users can create appointments, and the data is stored securely in Supabase.
+- **Appointment Creation through Supabase:** Users can create appointments, and the data is stored securely in Supabase.
 
-- ** List View of Appointments:** Users can view a list of their appointments, including date and time.
+- **List View of Appointments:** Users can view a list of their appointments, including date and time.
 
 ## Installation 
 
@@ -54,19 +54,19 @@ Press Cmd + R to run the project.
 
 ## Usage
 
-1. ** Profile Creation/Sign-in:**
+1. **Profile Creation/Sign-in:**
     - Launch the app and click on "Profile" to create/signin/view profile.
     - Sign in with your credentials.
     - Sign in/sign out/delete account through respective buttons. 
 
-2. ** Appointment Creation:**
+2. **Appointment Creation:**
     - Navigate to the "Calendar" section.
     - Click on the "DAY "NUM" on calendar to pick a day.
     - Click on Time for which time you would like. 
     - Enter any extra details the done.
     - Click "Done" on confimration page to proceed back to calendar. 
 
-3. ** List View of Appointments:**
+3. **List View of Appointments:**
     - Go to the "List" section to view a list of your appointments.
     - Appointments are displayed with date and time.
   
