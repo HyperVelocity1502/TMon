@@ -34,10 +34,14 @@ https://github.com/InnoTechTmon/TMon.git
 7. Make sure to add dependicies for Supabase and Firebase through XCode "File" -> "Add Package Dependencies" 
 
    Supabase:
-   ``` bash https://github.com/supabase-community/supabase-swift.git```
+   ``` bash
+   https://github.com/supabase-community/supabase-swift.git
+   ```
    
    Firebase:
-   ``` bash https://github.com/firebase/firebase-ios-sdk ```
+   ``` bash
+   https://github.com/firebase/firebase-ios-sdk
+   ```
    
 
    
