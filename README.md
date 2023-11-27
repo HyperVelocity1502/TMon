@@ -18,7 +18,7 @@ Currently only way for app to work is having a Mac computer with XCode installed
 
 ### Getting Started
 1. Copy Repository 
-```bash
+``` bash
 https://github.com/InnoTechTmon/TMon.git
 ```
 2. Click "Clone GIT Repository..." in XCode. 
@@ -32,6 +32,7 @@ https://github.com/InnoTechTmon/TMon.git
 6. Make sure to add GoogleService-Info.plist to project.
 
 7. Make sure to add dependicies for Supabase and Firebase through XCode "File" -> "Add Package Dependencies" 
+
    Supabase:
    ``` bash https://github.com/supabase-community/supabase-swift.git```
    
