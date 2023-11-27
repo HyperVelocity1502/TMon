@@ -27,11 +27,15 @@ https://github.com/InnoTechTmon/TMon.git
 
 4. Select where to save TMon Folder and press "Clone".
 
-5. Open file through TMon 4.xcodeproj
+5. Open file through TMon_4.xcodeproj
 
 6. Make sure to add GoogleService-Info.plist to project.
 
-7. Make sure to add dependicies for Supabase and Firebase through XCode "File" -> "Add Package Dependencies" 
+7. Go to "File" -> "Add files to TMon4" 
+
+8. Make sure to add dependicies for Supabase and Firebase through XCode "File" -> "Add Package Dependencies" 
+
+In search bar copy URL Repo below and paste them in and press "Add Package"
 
    Supabase:
    ``` bash
